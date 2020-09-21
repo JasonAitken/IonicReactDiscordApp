@@ -1,0 +1,37 @@
+.ion-list {
+    background-color: #363940;
+}
+
+.ion-select {
+    /* Applies to the value and placeholder color */
+    color: #92949c;
+    /* Set a different placeholder color */
+    --placeholder-color: #92949c;
+    /* Set full opacity on the placeholder */
+    --placeholder-opacity: 1;
+    margin-top: 0%;
+    margin-left: 38%;
+    margin-right: 40%;
+    display: block;
+}
+
+.my-custom-class .popover-content {
+    background-color: #363940;
+}
+.my-custom-interface .select-interface-option {
+    background-color: #363940;
+}
+
+.center {
+    margin-top: 50%;
+    margin-left: 40%;
+    margin-right: auto;
+    display: block;
+}
+
+.centerB {
+    margin-top: 0%;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: block;
+}

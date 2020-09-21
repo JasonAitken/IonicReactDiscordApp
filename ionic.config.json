@@ -1,0 +1,7 @@
+{
+  "name": "discordBotManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

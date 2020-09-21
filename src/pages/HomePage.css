@@ -1,0 +1,26 @@
+.my-custom-class .popover-content {
+    background-color: #363940;
+}
+
+.center {
+    margin-top: 5%;
+    margin-left: 45%;
+    margin-right: auto;
+    display: block;
+}
+
+.centerB {
+    margin-top: 0%;
+    margin-left: 42%;
+    margin-right: 40%;
+    display: block;
+}
+
+.image {
+    margin-top: 45%;
+    height: 25%;
+}
+
+.welcome {
+    margin-left: 25%;
+}

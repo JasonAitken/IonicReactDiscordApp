@@ -1,0 +1,13 @@
+ion-card {
+    margin: 10px auto;
+    height: 10vh !important;
+    width: 100% !important;
+    max-width: 100%;
+    align-items: center;
+    padding: 0 !important;
+}
+
+.ion-list {
+    background-color: #363940;
+}
+

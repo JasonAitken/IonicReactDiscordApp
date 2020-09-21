@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "discordBotManager",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "windowsAndroidStudioPath": "D:\\Android Studio\\bin\\studio64.exe",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
